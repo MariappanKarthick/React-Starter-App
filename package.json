@@ -2,7 +2,7 @@
   "name": "react-starter-app",
   "version" : "1.0",
   "description": "React Starter App",
-  "main": "index.js"
+  "main": "index.js",
   "scripts" : {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
